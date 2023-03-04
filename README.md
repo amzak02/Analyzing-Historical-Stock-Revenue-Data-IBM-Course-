@@ -1,2 +1,2 @@
-# Analyzing-Historical-Stock-Revenue-Data-IBM-Course-
+# Analyzing-Historical-Stock-Revenue-Data
 Final Assignment - IBM Python Project for Data Science
